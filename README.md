@@ -1,0 +1,2 @@
+# JSONConvert
+一个非常简单的JSON文本解析或者封装JSON文本的java框架
